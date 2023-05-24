@@ -1,0 +1,12 @@
+a=int(input("enter the value of a"))
+b=int(input("enter the value of b::"))
+sum=a+b
+sub=a-b
+mul=a*b
+div=a/b
+mod=a%b
+print("sum= ",sum)
+print("sub= ",sub)
+print("mul= ",mul)
+print("div= ",div)
+print("mod= ",mod)
